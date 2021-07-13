@@ -1,0 +1,6 @@
+.vscode/
+20_newsgroup/
+venv/
+data/
+
+*.h5
